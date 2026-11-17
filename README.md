@@ -1,0 +1,1 @@
+# seatshelf-privacy
